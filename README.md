@@ -1,2 +1,2 @@
-# Practica_html_EDC
+# Practica html EDC
 Prectica de HTML de la Escuela de Código
